@@ -23,18 +23,17 @@ QuizApp is a simple and interactive React-based multiple-choice quiz application
 
 ### <h1>🚀How It Works</h1>
 **Start the Quiz**:
+* The quiz begins with the first question displayed on the screen.
 
-The quiz begins with the first question displayed on the screen.
-Option Selection:
+**Option Selection:**
+* Users must select an option to enable the "Next" button.
+* If no option is selected, the user cannot proceed to the next question.
+  
+**Score Calculation:**
+* The score is updated dynamically based on the correctness of the selected options.
 
-Users must select an option to enable the "Next" button.
-If no option is selected, the user cannot proceed to the next question.
-Score Calculation:
-
-The score is updated dynamically based on the correctness of the selected options.
-Final Score:
-
-Once the user completes all questions, the application displays the final score out of the total number of questions.
+**Final Score:**
+*Once the user completes all questions, the application displays the final score out of the total number of questions.
 
 
 ### <h1>🛠️Technologies Used</h1>
