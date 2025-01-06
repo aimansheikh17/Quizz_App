@@ -48,5 +48,6 @@ Once the user completes all questions, the application displays the final score 
 
 ### <h1>📋How to Run the Project</h1>
 1.Clone the repository:
+https://github.com/aimansheikh17/Quizz_App.git
 
 
