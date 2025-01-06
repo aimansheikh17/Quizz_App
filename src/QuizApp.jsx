@@ -12,21 +12,21 @@ export default function QuizApp() {
         'Option1', 'Option1', 'Option1', 'Option1', 'Option1',
         'Option1', 'Option1', 'Option1', 'Option1', 'Option1'
     ];
-
-    const handleNext = () => {
-        // Update the score if the selected option is correct
-        if (correctAnswers[index] === option) {
-            setScore((prevScore) => prevScore + 1); // Use functional update
+    const handleNext = ()=>{
+        if(index<data.length-1){
+            if(correctAnswers[index] === option){
+                setScore(score+1);
+            }
+            setIndex(index+1);
+            setOption(null);
         }
-
-        // Check if it's the last question
-        if (index < data.length - 1) {
-            setIndex(index + 1);
-            setOption(''); // Reset selected option
-        } else {
-            setFinish(true); // Mark the quiz as finished
+        else {
+            if (correctAnswers[index] === option) { // Check the answer for the last question
+                setScore(score + 1);
+            }
+            setFinish(true);
         }
-    };
+    }
 
     const handleSelect = (optn) => {
         setOption(optn);
