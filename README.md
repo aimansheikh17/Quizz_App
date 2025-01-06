@@ -44,6 +44,10 @@ Once the user completes all questions, the application displays the final score 
 
 **CSS:** For styling the application.
 
+### <h1>📋How to Run the Project</h1>
+1.Clone the repository:
+
+
 
 
 ![image](https://github.com/user-attachments/assets/8840c216-ae70-4941-9331-5abe7df1d7de)
