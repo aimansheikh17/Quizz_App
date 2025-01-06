@@ -6,13 +6,21 @@ QuizApp is a simple and interactive React-based multiple-choice quiz application
 ___
 
 **Interactive Quiz:** Users can solve MCQS one question at a time.
+
 **Dynamic Question Navigation:** Users can move through questions one at a time with a "Next" button.
+
 **Answer Selection:** Clickable options with real-time visual feedback on the selected answer.
+
 **Scoring System:** Tracks correct answers and calculates the score dynamically.
+
 **Final Score Display:** A dedicated results screen showing the user's total score and the number of questions.
+
 **Progress Tracker:** Displays the current question number and total questions.
+
 **Validation for Answer Submission:** The "Next" button is disabled until an option is selected, preventing incomplete submissions.
+
 **Clean User Interface:** Styled with CSS for a visually appealing layout.
+
 **Responsive Design:** Compatible with various screen sizes for seamless usage across devices.
 
 
