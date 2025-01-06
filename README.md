@@ -1,5 +1,5 @@
 ### 🎯QuizApp
-
+___
 QuizApp is a simple and interactive React-based multiple-choice quiz application. Users can navigate through questions, select answers, and view their final score upon completion. The app is built with React state management to ensure a smooth and engaging experience.
 
 ### ✨Features
