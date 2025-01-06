@@ -1,7 +1,9 @@
 🎯QuizApp
+
 QuizApp is a simple and interactive React-based multiple-choice quiz application. Users can navigate through questions, select answers, and view their final score upon completion. The app is built with React state management to ensure a smooth and engaging experience.
 
 ✨Features
+
 Interactive Quiz: Users can solve MCQS one question at a time.
 Dynamic Question Navigation: Users can move through questions one at a time with a "Next" button.
 Answer Selection: Clickable options with real-time visual feedback on the selected answer.
@@ -14,6 +16,7 @@ Responsive Design: Compatible with various screen sizes for seamless usage acros
 
 
 🚀How It Works
+
 Start the Quiz:
 
 The quiz begins with the first question displayed on the screen.
@@ -30,6 +33,7 @@ Once the user completes all questions, the application displays the final score 
 
 
 🛠️Technologies Used
+
 ReactJS: Frontend framework for building the user interface.
 State Management: Managed using React's useState and useEffect hooks.
 CSS: For styling the application.
