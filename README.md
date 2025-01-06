@@ -22,10 +22,10 @@ QuizApp is a simple and interactive React-based multiple-choice quiz application
 
 
 ### <h1>🚀How It Works</h1>
-**<h3>Start the Quiz</h3>**:
+**Start the Quiz**:
 * The quiz begins with the first question displayed on the screen.
 
-**<h3>Option Selection:</h3>**
+**Option Selection:**
 * Users must select an option to enable the "Next" button.
 * If no option is selected, the user cannot proceed to the next question.
   
