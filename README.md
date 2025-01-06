@@ -47,6 +47,7 @@ QuizApp is a simple and interactive React-based multiple-choice quiz application
 
 ### <h1>📋How to Run the Project</h1>
 1.Clone the repository:
+
 https://github.com/aimansheikh17/Quizz_App.git
 
 
