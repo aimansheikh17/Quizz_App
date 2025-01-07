@@ -1,57 +1,51 @@
-<h1>🎯BuddyTasker</h1>
-BuddyTasker is a simple and efficient React-based task management application. Users can add, categorize, and prioritize tasks, track progress dynamically, and manage their to-do list with ease. The app is designed to enhance productivity with an intuitive and clean interface.
+### <h1>🎯QuizApp</h1>
+QuizApp is a simple and interactive React-based multiple-choice quiz application. Users can navigate through questions, select answers, and view their final score upon completion. The app is built with React state management to ensure a smooth and engaging experience.
 
-<h1>✨Features</h1>
-Task Addition:
-Easily add tasks with a dedicated input field and "Add Task" button.
+### <h1>✨Features</h1>
+**Interactive Quiz:** Users can solve MCQS one question at a time.
 
-Task Completion Tracking:
-A visual progress bar dynamically updates as tasks are marked complete.
+**Dynamic Question Navigation:** Users can move through questions one at a time with a "Next" button.
 
-Task Priority Filtering:
-Filter tasks based on priority levels (e.g., High, Medium, Low).
+**Answer Selection:** Clickable options with real-time visual feedback on the selected answer.
 
-Task Categorization:
-Organize tasks by categories (e.g., General, Work, Personal).
+**Scoring System:** Tracks correct answers and calculates the score dynamically.
 
-Task Actions:
+**Final Score Display:** A dedicated results screen showing the user's total score and the number of questions.
 
-Mark as Complete: Strike through completed tasks.
-Undo Completion: Revert a completed task to its active state.
-Delete Task: Remove tasks permanently.
-Progress Overview:
-Track the number of completed tasks out of the total.
+**Progress Tracker:** Displays the current question number and total questions.
 
-Clean User Interface:
-A modern and visually appealing design with dark mode-inspired aesthetics.
+**Validation for Answer Submission:** The "Next" button is disabled until an option is selected, preventing incomplete submissions.
 
-Responsive Design:
-Seamlessly works across all screen sizes and devices.
+**Clean User Interface:** Styled with CSS for a visually appealing layout.
 
-<h1>🚀How It Works</h1>
-Add a Task:
-
-Enter a task in the input field and click "Add Task" to include it in the task list.
-Mark as Complete or Undo:
-
-Click "Undo" to revert a completed task or mark it as done by selecting it.
-Delete a Task:
-
-Remove tasks by clicking the "Delete" button.
-Filter by Priority:
-
-Use the dropdown to filter tasks by High, Medium, or Low priority levels.
-Track Progress:
-
-The progress bar at the top shows the completion percentage for your tasks.
-<h1>🛠️Technologies Used</h1>
-ReactJS: Frontend framework for building the interactive user interface.
-React Hooks: State management using useState and useEffect.
-CSS: Custom styling for the dark-themed application.
-<h1>📋How to Run the Project</h1>
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/BuddyTasker.git
+**Responsive Design:** Compatible with various screen sizes for seamless usage across devices.
 
 
+### <h1>🚀How It Works</h1>
+**Start the Quiz**:
+* The quiz begins with the first question displayed on the screen.
+
+**Option Selection:**
+* Users must select an option to enable the "Next" button.
+* If no option is selected, the user cannot proceed to the next question.
+  
+**Score Calculation:**
+* The score is updated dynamically based on the correctness of the selected options.
+
+**Final Score:**
+* Once the user completes all questions, the application displays the final score out of the total number of questions.
+
+
+### <h1>🛠️Technologies Used</h1>
+**ReactJS:** Frontend framework for building the user interface.
+
+**State Management:** Managed using React's useState and useEffect hooks.
+
+**CSS:** For styling the application.
+
+![image](https://github.com/user-attachments/assets/8840c216-ae70-4941-9331-5abe7df1d7de)
+
+### <h1>📋How to Run the Project</h1>
+1.Clone the repository:
+
+https://github.com/aimansheikh17/Quizz_App.git                
